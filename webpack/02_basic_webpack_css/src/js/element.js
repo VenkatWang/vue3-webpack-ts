@@ -1,4 +1,5 @@
 import "../style/style.css"
+import "../style/demo.less"
 
 const divEl = document.createElement("div")
 divEl.className = "title"
