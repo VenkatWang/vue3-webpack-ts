@@ -20,6 +20,7 @@ imgEle.className="imgEleClass"
 document.body.appendChild(imgEle)
 
 console.log(a.b);
+console.log('test')
 
 const iEl=document.createElement("i")
 iEl.className="iconfont icon-ashbin"
